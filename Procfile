@@ -1,1 +1,1 @@
-worker: node royale.js
+worker: node bot.js
